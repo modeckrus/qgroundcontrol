@@ -35,7 +35,7 @@ QML_IMPORT_PATH += $$PWD/src/QmlControls
 #Test include
 #
 
-include(./tets/tets.pri)
+
 
 #
 #
